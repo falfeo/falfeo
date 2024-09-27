@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Francesco Alfeo
 - 👀 I’m interested in software developement, hiking ⛰️, photo, animals (🐔, 🐱).
-- 🌱 I’m currently learning: web3.
 - 📫 How to reach me alfeo.france@gmail.com
 
 <!---
